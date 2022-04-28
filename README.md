@@ -11,4 +11,14 @@
 4. Run the script using: ```python main.py``` 
 5. I believe you already have installed the python modules used in this code, if not then go ahead and install them.
 6. Sample Output:
-![image](https://user-images.githubusercontent.com/47841078/165704174-feceb630-93ce-4b2a-ae96-b2464abd465b.png)
+```
++        It could be Phishing
+Sender: gophish
+Sent From: https://higee.net
+Origional Sender:  ['bilal@higee.net']
+Pretender Sender:  ['hiddenuser@company.com'] # dummy data
+
+Sent From: https://emkei.cz
+Origional Sender:  ['235@emkei.cz']
+Pretender Sender:  ['hiddenuser@company.com'] # dummy data
+```
