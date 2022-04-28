@@ -9,7 +9,7 @@
 2. In main.py file find imap_password, imap_username
 3. Replace the values with your own outlook email and respective password
 4. Run the script using:
-5.                      python main.py 
+python main.py 
 6. I believe you already have installed the python moodules used in this code, if not then go ahead and install them.
 7. You are done:
 8. Output:
