@@ -47,12 +47,9 @@ class OutlookAccount(object):
         uids = self.search(search_query, folder, readonly)
         return self.fetch_and_parse(uids, fetch_query)
 
-#imap_password = 'YourEmailPassword'
-#imap_username = 'yourOutlookMail@outlook.com'
+imap_password = 'YourEmailPassword'
+imap_username = 'yourOutlookMail@outlook.com'
 
-imap_password = '5F18978'
-imap_username = 'fa20-ris-003@isbstudent.comsats.edu.pk'
- 
 outlook = OutlookAccount(username=imap_username, password=imap_password)
 outlook.login()
 
