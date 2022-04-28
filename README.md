@@ -6,7 +6,7 @@
 
 ### Steps To Follow:
 1. Clone this git repository: https://github.com/AzharGhafoor/Phishing-Detection
-2. In main.py file find imap_password, imap_username
+2. In ```main.py``` file find ```imap_password, imap_username```
 3. Replace the values with your own outlook email and respective password
 4. Run the script using:
 5. ```python main.py``` 
