@@ -1,5 +1,5 @@
 # Phishing-Detection
-## Extraction of Emails &amp; Header Information from Outlook in Order to Detect Phishing Attacks using Python
+## Extracting Emails &amp; Header Information from Outlook in Order to Detect Phishing Attacks using Python
 
 #### Note: You can find a comprehensive article on this project at https://ghafoorazhar.medium.com/ 
 #### Constrainst: Python3, Windows OS, Outlook Account
