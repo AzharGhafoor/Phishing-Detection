@@ -9,8 +9,8 @@
 2. In main.py file find imap_password, imap_username
 3. Replace the values with your own outlook email and respective password
 4. Run the script using:
-python main.py 
-6. I believe you already have installed the python moodules used in this code, if not then go ahead and install them.
+5. python main.py 
+6. I believe you already have installed the python modules used in this code, if not then go ahead and install them.
 7. You are done:
 8. Output:
 ![image](https://user-images.githubusercontent.com/47841078/165704174-feceb630-93ce-4b2a-ae96-b2464abd465b.png)
